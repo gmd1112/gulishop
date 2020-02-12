@@ -16,16 +16,11 @@
     </parent>
 
     <dependencies>
-
-
         <dependency>
             <groupId>com.guli.shop</groupId>
             <artifactId>guli-common-util</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
-
-
 
     </dependencies>
 
